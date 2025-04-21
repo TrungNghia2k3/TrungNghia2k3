@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Trung Nghĩa</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam</h3>
+<h3 align="center">A developer from Vietnam</h3>
 
 <p align="left">
 </p>
